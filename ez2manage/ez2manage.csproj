@@ -94,9 +94,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+<<<<<<< HEAD
     <None Include="Scripts\jquery-2.1.3.intellisense.js" />
     <Content Include="Scripts\jquery-2.1.3.js" />
     <Content Include="Scripts\jquery-2.1.3.min.js" />
+=======
+>>>>>>> origin/master
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -110,7 +113,10 @@
   <ItemGroup>
     <Content Include="Views\web.config" />
     <Content Include="packages.config" />
+<<<<<<< HEAD
     <Content Include="Scripts\jquery-2.1.3.min.map" />
+=======
+>>>>>>> origin/master
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
